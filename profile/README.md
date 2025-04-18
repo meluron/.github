@@ -1,9 +1,9 @@
 ## 🙏 Namaste, Welcome to our space!
 ---
 
-I’m Ankit Anand, founder of **Meluron** — *where utility drives innovation*.
+I’m Ankit Anand, founder of **meluron** — *where utility drives innovation*.
 
-I started **Meluron** to create tools that add real value to people’s lives and empower them to achieve more.
+I started **meluron** to create tools that add real value to people’s lives and empower them to achieve more.
 
 ---
 
